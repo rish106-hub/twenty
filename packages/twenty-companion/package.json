@@ -33,7 +33,7 @@
     "@electron/fuses": "^1.8.0",
     "@vercel/webpack-asset-relocator-loader": "^1.7.3",
     "css-loader": "^6.11.0",
-    "electron": "^39.8.5",
+    "electron": "^42.11.16",
     "node-loader": "^2.1.0",
     "style-loader": "^3.3.4"
   },
@@ -56,6 +56,6 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-markdown": "^10.1.0",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   }
 }
